@@ -19,4 +19,4 @@ This project is a strategic analysis to guide the next steps in restaurant expan
 2. Open `reports/Zomato_Restaurant_Expansion_Strategy.xlsx with Microsoft Excel.
 
 ## Data Sources
-- The restaurants data was provided by the Newton School.
+- The Newton School provided the restaurants' data.
